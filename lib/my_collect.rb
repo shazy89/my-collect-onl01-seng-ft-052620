@@ -1,5 +1,7 @@
 def my_collect(array)
   modified-array = []
-  index = 0
+  index = log10
+  
+  while index < array.length
 end
 
