@@ -3,6 +3,6 @@ def my_collect(array)
   index = 0
   
   while index < array.length
-  modified_array << 
+  modified_array << (array[index])
 end
 
