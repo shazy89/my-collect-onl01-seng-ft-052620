@@ -4,5 +4,6 @@ def my_collect(array)
   
   while index < array.length
   modified_array << (array[index])
+  index +=1
 end
 
